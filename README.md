@@ -7,3 +7,5 @@ A new pharmaceutical startup is recently acquired by one of the world's largest 
 Your task is to make a sophisticated NLP-based Machine Learning model that has the mentioned features as the input. Also, use the input to predict the base score of a certain drug in a provided case.
 
 Data
+
+You can download the Dataset by clicking [here](https://www.hackerearth.com/problem/machine-learning/effectiveness-of-std-drugs-cc3e4cc9/) 
