@@ -10,4 +10,4 @@ Your task is to make a sophisticated NLP-based Machine Learning model that has t
 
 You can download the Dataset by clicking [here](https://www.hackerearth.com/problem/machine-learning/effectiveness-of-std-drugs-cc3e4cc9/) 
 
-in this Challenge I got 94.20 Accuracy and 26 Rank
+in this Challenge I got 94.20 Accuracy and 11 Rank
